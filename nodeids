@@ -1,0 +1,6 @@
+[
+  "tests/test_bracket.py::TestBracketAlgorithm::test_balanced_bracket_4a_8b_4c",
+  "tests/test_bracket.py::TestBracketAlgorithm::test_balanced_bracket_8a_4b_4c",
+  "tests/test_bracket.py::TestBracketAlgorithm::test_determinism",
+  "tests/test_bracket.py::TestBracketAlgorithm::test_invalid_team_count"
+]
